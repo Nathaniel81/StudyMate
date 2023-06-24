@@ -71,6 +71,6 @@ python manage.py runserver
 <p align="center">
   Room Conversation Preview
 </p>
-<img src="./Rc.PNG">  
+<img src="./Rm.PNG">  
 </td>
 </table>
